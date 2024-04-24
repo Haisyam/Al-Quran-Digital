@@ -9,7 +9,7 @@
                 height="30"
                 class="d-inline-block align-text-top"
             />
-            Al-Qur'an Digital
+            Maos Al-Qur'an
         </a>
         <div class="navbar-nav ms-auto">
             <a
